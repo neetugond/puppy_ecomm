@@ -1,0 +1,13 @@
+#container > div{
+width: 300px;
+}
+img{
+    width: 100%;
+
+}
+button{
+    width: 50%;
+    background-color: black;
+    color: white;
+    cursor: pointer;
+}
